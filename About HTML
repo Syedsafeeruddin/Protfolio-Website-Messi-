@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Leo Messi</title>
+    <link rel="stylesheet" href="about.css">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&family=Baloo+Bhaina+2:wght@800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="back"></div>
+        <div>
+        <nav>
+            <h2 class="logo">M <span id="e">E</span> S S I</h2>
+            <ul>
+                <li><a href="main.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="record.html">records</a></li>
+                <li><a href="media.html">Contact</a></li>
+                <li><a href="wc.html">World Cup</a></li>
+            </ul>
+        </nav>
+
+        <div class="sec1">
+             <img src="about.jpg"><p>
+                Lionel Messi, commonly known as Leo Messi, is an Argentine professional soccer player widely regarded <br> as one of the greatest footballers of all time. Born on June 24, 1987, Messi spent the majority of his career  <br> at FC Barcelona, where he showcased extraordinary talent,  remarkable dribbling skills, and an exceptional <br> goal-scoring ability. His agility, vision, and precise left foot have earned him numerous accolades, including  <br> multiple Ballon d'Or awards for the best player in the world. In 2021, Messi moved to Paris Saint-Germain (PSG) <br> after spending over two decades at Barcelona, continuing to mesmerize fans worldwide with his unparalleled <br> mastery of the beautiful game.</p>
+        
+    </div>
+
+    <div class="sec2">
+             <img src="about1.jpg"><p>
+                Lionel Messi's legendary status in football stems from his unparalleled skill set, consistent excellence, <br> and profound impact  on the sport. His record-breaking goal-scoring prowess, dazzling dribbling abilities, and <br> exceptional vision have set him apart as a once-in-a-generation talent. Messi's numerous individual awards, <br> including multiple  Ballon d'Or titles, underscore his  dominance in the game. Beyond statistics, his influence transcends <br> the field, inspiring millions globally with his humility, sportsmanship, and dedication. His long-standing tenure <br> at FC Barcelona, marked by numerous titles and magical moments, solidified his legacy as an icon of the sport,<br> earning him a revered place among football's all-time greats.</p>
+        
+    </div>
+</body>
+</html>
