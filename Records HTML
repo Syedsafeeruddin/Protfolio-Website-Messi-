@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Records - Leo Messi</title>
+    <link rel="stylesheet" href="record.css">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&family=Baloo+Bhaina+2:wght@800&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="back">
+        <img src="6.jpg">
+    </div>
+        <div>
+        <nav>
+            <h2 class="logo"><span id="e">M E S S I</span></h2>
+            <ul>
+                <li><a href="main.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="record.html">records</a></li>
+                <li><a href="media.html">Contact</a></li>
+                <li><a href="wc.html">World Cup</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="container">
+        <div>
+        <span>All time top scorer of national teams in South America<span><br>
+        <span>MVP of the 2014 World Cup and the 2022 World Cup<span><br>
+        <span>The game's all-time leading Argentine goalscorer</span><br>
+        <span>All-time top scorer at same club<span><br>
+        <span>Top goalscorer in El Clásico<span><br>
+        <span>Argentinian with most honours</span><br>
+        <span>FC Barcelona all-time top goalscorer<span><br>
+        <span>Top goalscorer in the 21st century<span><br>
+        <span>All-time top goalscorer in LaLiga<span><br>
+        <span>Most trophies won as a Barcelona player</span><br>
+        <span>Most goals in a LaLiga season (50 goals)</span><br>
+        <span>Argentina's all-time leading goalscorer</span><br>
+        <span>Most games played with Argentina in its history</span><br>
+        <span>Most games played as a Barcelona player in its history</span><br>
+        <span>Guinness World Record as top goalscorer for club (91 goals)<span><br>
+        <span>All-time top goalscorer in the Champions with the same team</span><br>
+    </div>
+</div>
+<hr>
+</body>
+</html>
