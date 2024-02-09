@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Copa del Mundo</title>
+    <link rel="stylesheet" href="wc.css">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&family=Baloo+Bhaina+2:wght@800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="back"></div>
+        <div>
+        <nav>
+            <h2 class="logo">M <span id="e">E</span> S S I</h2>
+            <ul>
+                <li><a href="main.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="record.html">records</a></li>
+                <li><a href="media.html">Contact</a></li>
+                <li><a href="wc.html">World Cup</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="row">
+        <img src="11.jpg" height="300px" width="200px" class="one">
+        <img src="15.jpg" height="300px" width="200px" class="one">
+        <img src="3.jpg" height="300px" width="200px" class="one">
+        <img src="5.jpg" height="300px" width="200px" class="one">
+    </div>
+    <div class="row2">
+        <img src="18.jpg" height="300px" width="200px" class="one">
+        <img src="19.jpg" height="300px" width="200px" class="one">
+        <img src="leo.jpg" height="300px" width="200px" class="one">
+        <img src="26.jpg" height="300px" width="200px" class="one">
+    </div>
+    <div class="row3">
+        <img src="25.jpg" height="300px" width="200px" class="one">
+        <img src="17.jpg" height="300px" width="200px" class="one">
+        <img src="12.jpg" height="300px" width="200px" class="one">
+        <img src="14.jpg" height="300px" width="200px" class="one">
+    </div>
+</body>
+</html>
